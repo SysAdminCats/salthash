@@ -1,0 +1,27 @@
+{
+  "name": "salthash",
+  "version": "1.0.0",
+  "description": "This is a Salt Hash Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SysAdminCats/salthash.git"
+  },
+  "keywords": [
+    "Salt",
+    "Hash",
+    "Generator"
+  ],
+  "author": "SysAdmin Cat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SysAdminCats/salthash/issues"
+  },
+  "homepage": "https://github.com/SysAdminCats/salthash#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
